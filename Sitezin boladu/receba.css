@@ -1,0 +1,55 @@
+header {
+    background-image: linear-gradient(to right, rgb(72, 255, 0), rgb(50, 92, 50));  
+}
+
+.titulo-principal {
+	background: #193d0e;
+	padding-left: 580px;
+}
+body {
+    background-image: linear-gradient(to left, black, green);
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+h3 {
+    background:#696969;
+    text-align: center;
+    font-size: 50px;
+}
+
+h4 {
+    font-size: 120px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.Contato1 {
+    float: left;
+    padding-left: 400px;
+}
+
+.Contato2 {
+    float: left;
+    padding-left: 100px;
+}
+
+.Contato3 {
+    float: left;
+    padding-left: 100px;
+}
+  
